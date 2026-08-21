@@ -1,0 +1,7 @@
+Stripe is a trademark of Stripe, Inc. This project is an independent,
+community integration and is not affiliated with, endorsed by, or sponsored by
+Stripe, Inc.
+
+"Stripe MCP" refers to Stripe's official Model Context Protocol server,
+hosted at https://mcp.stripe.com (public preview). This integration is a thin
+Prime Agent client; Stripe provides the remote server and platform tools.

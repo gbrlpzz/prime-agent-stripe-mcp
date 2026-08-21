@@ -1,0 +1,10 @@
+{
+  "name": "stripe",
+  "version": "0.1.0",
+  "description": "Official Stripe MCP integration for Prime Agent (mcp.stripe.com, OAuth).",
+  "main": "index.py",
+  "python_import": "stripe",
+  "callable": "StripeMcp",
+  "dependencies": [],
+  "license": "MIT"
+}
